@@ -9,7 +9,7 @@
  
 - 🌱 I’m currently learning **MERN**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap 5, Git & GitHub, TypeScript, Angular, Java, C++**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap 5, Git & GitHub, TypeScript, Java, C++**
 - 📫 How to reach me **akshaysaini2003@gmail.com**
 - ⚡ Fun fact **I love learning new things**
 
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,cpp,py,c,ts,angular" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,py,c,ts" />
 </p>
 
 <p align="center">
