@@ -8,8 +8,7 @@
 ### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me 
  
 - 🌱 I’m currently learning **MERN**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap 5, Git & GitHub, TypeScript, Java, C++**
+- 👯 I’m looking to collaborate on **Open Source Projects** and **Job oppotunities.**
 - 📫 How to reach me **akshaysaini2003@gmail.com**
 - ⚡ Fun fact **I love learning new things**
 
